@@ -1,0 +1,14 @@
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\Price_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\Price_list.AssemblyInfoInputs.cache
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\Price_list.AssemblyInfo.cs
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\Price_list.csproj.CoreCompileInputs.cache
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\bin\Debug\net7.0\Price_list.exe
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\bin\Debug\net7.0\Price_list.deps.json
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\bin\Debug\net7.0\Price_list.runtimeconfig.json
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\bin\Debug\net7.0\Price_list.dll
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\bin\Debug\net7.0\Price_list.pdb
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\Price_list.dll
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\refint\Price_list.dll
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\Price_list.pdb
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\Price_list.genruntimeconfig.cache
+C:\Users\marin\Desktop\ШАГ\C#\Price_list\obj\Debug\net7.0\ref\Price_list.dll
